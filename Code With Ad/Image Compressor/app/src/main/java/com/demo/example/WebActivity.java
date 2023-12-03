@@ -14,7 +14,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 
 public class WebActivity extends AppCompatActivity {
-    public static String Privacy_link = "https://www.google.com/";
+    public static String Privacy_link = "https://mywild.work/privacy";
     ImageView imgback;
     private WebView webPrivacyPolicy;
 

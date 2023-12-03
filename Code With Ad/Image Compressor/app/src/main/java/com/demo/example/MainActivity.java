@@ -24,6 +24,7 @@ import java.io.File;
 
 
 public class MainActivity extends AppCompatActivity {
+
     private static final int PERMISSION_REQUEST_CODE = 1;
     FrameLayout BannerContainer;
     ImageView banner;
